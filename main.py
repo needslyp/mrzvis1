@@ -1,5 +1,6 @@
 import math
 import time
+import datetime
 
 def sum_vector(vec1: list, vec2: list):
 
